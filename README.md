@@ -1,4 +1,7 @@
-Project structure:
+###### Run app
+Application can be deployed on Tomcat without any preconditions.
+
+###### Project structure:
 ```
 .
 ├── pom.xml
